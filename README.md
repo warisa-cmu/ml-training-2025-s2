@@ -1,6 +1,6 @@
 # Information
 
-- [Youtube VDOs](#)
+- [Youtube VDOs](https://www.youtube.com/playlist?list=PLNGLpHQhvGru9MuV6uxP15hd5Hizojux6)
 
 # Resources
 
