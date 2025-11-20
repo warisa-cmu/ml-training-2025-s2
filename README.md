@@ -16,3 +16,7 @@
 ## T02: Basic Python Programming
 
 - [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T02_basic_python/files)
+
+## T03: Class
+
+- [Download Codes]
