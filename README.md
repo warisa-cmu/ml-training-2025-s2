@@ -19,4 +19,4 @@
 
 ## T03: Class
 
-- [Download Codes]
+- [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T03_class/files)
