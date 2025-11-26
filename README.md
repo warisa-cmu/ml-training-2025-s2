@@ -20,3 +20,7 @@
 ## T03: Class
 
 - [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T03_class/files)
+
+## T04: SKLearn
+
+- [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T04_scikit_learn/files)
