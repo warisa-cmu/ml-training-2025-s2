@@ -27,8 +27,8 @@
 
 ## T05: Optuna
 
-- [Download Codes](#)
+- [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T05_optuna/files)
 
 ## T06: Project Setup
 
-- [Project Setup Instructions](#)
+- [Project Setup Instructions](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/project.md)
