@@ -27,3 +27,11 @@
 - `git clone <repository_url>`: Clone the repository to your local machine.
 - `cd <project_name>`: Change into the cloned project directory.
 - `uv install`: Install all packages listed in the virtual environment's requirements file.
+
+# Useful Git Commands
+
+- `git status`: Check the status of your working directory and staging area.
+- `git log`: View the commit history.
+- `git reset --soft HEAD~1`: Undo the last commit but keep changes staged.
+- `git reset --hard <commit_hash>`: Reset your working directory to a specific commit.
+- `git clean -fd`: Remove untracked files and directories from the working directory.
