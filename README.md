@@ -24,3 +24,11 @@
 ## T04: SKLearn
 
 - [Download Codes](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T04_scikit_learn/files)
+
+## T05: Optuna
+
+- [Download Codes](#)
+
+## T06: Project Setup
+
+- [Project Setup Instructions](#)
