@@ -31,4 +31,6 @@
 
 ## T06: Project Setup
 
-- [Project Setup Instructions](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project_setup/S01_instruction.md)
+- [Overview](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/S01_project_overview.md)
+- [SKLearn Project](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/S02_project_sklearn.md)
+- [Example Source File](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T06_project/files)
