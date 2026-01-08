@@ -31,4 +31,4 @@
 
 ## T06: Project Setup
 
-- [Project Setup Instructions](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/project.md)
+- [Project Setup Instructions](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project_setup/S01_instruction.md)
