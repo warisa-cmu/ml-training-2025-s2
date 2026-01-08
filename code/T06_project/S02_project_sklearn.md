@@ -23,7 +23,7 @@ git config --global user.email "email@example.com"
 # Organizing a new project
 
 - Delete `main.py`
-- Create `src` and `run` folders and add source codes.
+- Create `src` and add source codes.
 - Create a blank `__init__.py` file.
   - This file marks the directory as a Python package.
 - Your project directory should look like this.
