@@ -7,6 +7,18 @@
   - Example: `uv add scikit-learn` to add the scikit-learn library.
 - `uv install`: Install all packages listed in the virtual environment's requirements file.
 
+# Installing `git`
+
+- Download and install from https://git-scm.com/
+- Set your username and email
+
+```bash
+git config --global user.name "firstname lastname";
+git config --global user.email "email@example.com"
+```
+
+- Check by `git config --list`
+
 # GitHub Repository Setup
 
 - Create a new repository on GitHub.

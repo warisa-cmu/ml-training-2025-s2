@@ -1,15 +1,3 @@
-# Installing `git`
-
-- Download and install from https://git-scm.com/
-- Set your username and email
-
-```bash
-git config --global user.name "firstname lastname";
-git config --global user.email "email@example.com"
-```
-
-- Check by `git config --list`
-
 # Creating a new project
 
 - Create a new folder (e.g. `project`)
