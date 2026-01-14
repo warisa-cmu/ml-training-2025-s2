@@ -34,3 +34,27 @@
 - [Overview](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/S01_project_overview.md)
 - [SKLearn Project](https://github.com/warisa-cmu/ml-training-2025-s2/blob/main/code/T06_project/S02_project_sklearn.md)
 - [Example Source File](https://github.com/warisa-cmu/ml-training-2025-s2/tree/main/code/T06_project/files)
+
+# Pytorch
+
+## Setup
+
+- `git clone https://github.com/warisa-cmu/ml-training-2025-s2-pytorch.git`
+- `uv sync`
+- `uv pip install -e .`
+- To use `torchviz` install [graphviz](https://graphviz.org/download/).
+
+## Resources (MLP)
+
+- [Introduction to neural network (class lecture)](https://drive.google.com/file/d/1nbksolyPUwbs9Ou6q1wuN459vCF0RVSv/view?usp=sharing)
+- [Back propagation explainer](https://xnought.github.io/backprop-explainer/)
+- [Visual guide to neural network (Part 1)](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
+- [Visual guide to neural network (Part 2)](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+
+## Resource (CNN)
+
+- [Introduction to convolutional neural netwrok (class lecture)](https://drive.google.com/file/d/196gPZy8YaD3g3uONXzREpYqQXCIdO5_0/view?usp=sharing)
+- [Classification metrices (class lecture)](https://drive.google.com/file/d/1Zu07EIzHpgKRZGct3wmeNW2K__NprmuO/view?usp=sharing)
+- [Convolution animation](https://github.com/vdumoulin/conv_arithmetic)
+- [CNN explainer](https://poloclub.github.io/cnn-explainer/)
+- [SqueezeNet paper](https://arxiv.org/abs/1602.07360)
